@@ -33,12 +33,13 @@ body * {
 }
 /*# seletor de id*/
 #container {
-  width: 360px;
+  width: 100%;
   /* altura*/
   /* margin-right: auto;
   margem direita
   margin-left: auto;
   margem esquerda*/
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
 }
