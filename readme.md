@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-<img srcc= ".vscode/assets/.github/Cover.jpg" alt="Logo do Devlinks" width= "200">
+<img src="./.github/Cover.jpg" alt="Logo do Devlinks" width="200">
 </p>
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -53,3 +53,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+# projeto14.02.25
