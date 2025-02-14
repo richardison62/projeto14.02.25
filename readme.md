@@ -1,9 +1,6 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-<img src="./.github/Cover.jpg" alt="Logo do Devlinks" width="200">
-</p>
-<p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://app.rocketseat.com.br/">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
@@ -22,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".vscode/assets/.github/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -53,4 +50,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
 # projeto14.02.25
